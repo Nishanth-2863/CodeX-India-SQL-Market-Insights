@@ -17,7 +17,7 @@ How can the marketing data analyst at CodeX convert survey results from 10,000 r
 
 - Energy drink consumption is more common among males, particularly in the age group of 19-30 years.
 
--     Market leaders like Cola-Cola, Pepsi, and Gangster dominate the energy drink industry, reflecting their strong brand presence
+- Market leaders like Cola-Cola, Pepsi, and Gangster dominate the energy drink industry, reflecting their strong brand presence
 
 ---
 
