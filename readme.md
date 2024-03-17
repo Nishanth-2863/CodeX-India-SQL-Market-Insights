@@ -24,7 +24,9 @@ How can the marketing data analyst at CodeX convert survey results from 10,000 r
 ### 2. CODEX Insights
 
 - The primary reasons consumers prefer those brands over this one are brand reputation and availability
--     CodeX receives a moderate overall rating of 3.27  out of 5 from consumers, indicating room for improvement
+  
+- CodeX receives a moderate overall rating of 3.27  out of 5 from consumers, indicating room for improvement
+  
 - Consumers have a neutral perception of CodeX, highlighting the need for brand enhancement
 
 - CodeX faces a brand awareness challenge as 525 out of 980 respondents haven't heard about it.
